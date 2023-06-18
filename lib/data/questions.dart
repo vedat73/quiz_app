@@ -4,8 +4,8 @@ const questions = [
   QuizQuestion('what is the color of Sky ? Please answer the question.',
       ['Blue', 'Yellow', 'Red', 'Green']),
   QuizQuestion(
-      'Which is the best youtube channel ? Please answer the question.',
-      ['MrBeast', 'Programmer Ship', 'MrsBeast', 'UncleBeast']),
+      'Which cross platform do you think is the best ? Please answer the question.',
+      ['Flutter', 'React Native', 'FireMonkey']),
   QuizQuestion('Which is the best movie ? Please answer the question.',
       ['The Raid', 'The Lord of the Rings', 'Avatar', 'Hobbit']),
   QuizQuestion('What is the best football clup ? Please answer the question.',
