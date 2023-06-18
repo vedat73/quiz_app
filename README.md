@@ -1,6 +1,10 @@
 # quiz_app
 
-A new Flutter project.
+A new Flutter project. Following images were captured from the quiz_app.
+
+![Screenshot 2023-06-18 at 11 25 18](https://github.com/vedat73/quiz_app/assets/32343921/d62a646c-a007-4f46-9067-9facb3d3abf2)
+![Screenshot 2023-06-18 at 11 26 12](https://github.com/vedat73/quiz_app/assets/32343921/edb655c9-0361-48b5-86f8-e2e33a09b41d)
+![Screenshot 2023-06-18 at 11 26 34](https://github.com/vedat73/quiz_app/assets/32343921/371795c6-59f0-4805-8116-6623c9eba438)
 
 ## Getting Started
 
